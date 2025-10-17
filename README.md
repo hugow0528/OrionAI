@@ -2,16 +2,15 @@
 
 <div align="center">
 
-![OrionAI Logo](https://img.shields.io/badge/OrionAI-8A2BE2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNTAsNSBBNDUsNDUgMCAxLDEgNTAsOTUgQTQ1LDQ1IDAgMSwxIDUwLDUgTTUwLDE1IEEzNSwzNSAwIDEsMCA1MCw4NSBBMzUsMzUgMCAxLDAgNTAsMTUgWiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik00MCwzNSBsMjAsMTUgbC0yMCwxNSBaIi8+PC9zdmc+)
+![OrionAI](https://img.shields.io/badge/OrionAI-Advanced_HKDSE_English_Suite-8A2BE2?style=for-the-badge)
 
 **A comprehensive AI-powered writing assistant for HKDSE English students**
 
 [![GitHub](https://img.shields.io/badge/GitHub-hugow0528-181717?style=flat-square&logo=github)](https://github.com/hugow0528)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[Features](#features) • [Demo](#demo) • [Installation](#installation) • [Usage](#usage) • [Technologies](#technologies) • [Contributing](#contributing)
+[Features](#features) • [Getting Started](#getting-started) • [Installation](#installation) • [Usage](#usage) • [Technologies](#technologies) • [Contributing](#contributing)
 
 </div>
 
@@ -48,9 +47,9 @@
 - **Multiple Export Formats**: Save extracted text as PDF, DOCX, or TXT
 - **Copy to Clipboard**: Quickly copy all extracted text
 
-## 🚀 Demo
+## 🚀 Getting Started
 
-Visit the live application: [OrionAI Demo](https://hugow0528.github.io/OrionAI/) *(if hosted on GitHub Pages)*
+Simply open the `index.html` file in your browser to start using OrionAI, or host it on any web server or GitHub Pages for online access.
 
 ## 🛠️ Technologies
 
@@ -168,7 +167,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is open source. Copyright © 2025 Hugo Wong. All rights reserved.
 
 ## 👨‍💻 Author
 
