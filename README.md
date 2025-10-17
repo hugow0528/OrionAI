@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![OrionAI](https://img.shields.io/badge/OrionAI-Advanced_HKDSE_English_Suite-8A2BE2?style=for-the-badge)
+![OrionAI](https://img.shields.io/badge/OrionAI-Advanced%20HKDSE%20English%20Suite-8A2BE2?style=for-the-badge)
 
 **A comprehensive AI-powered writing assistant for HKDSE English students**
 
@@ -167,7 +167,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 📄 License
 
-This project is open source. Copyright © 2025 Hugo Wong. All rights reserved.
+Copyright © 2025 Hugo Wong. All rights reserved.
 
 ## 👨‍💻 Author
 
