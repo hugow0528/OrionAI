@@ -10,7 +10,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[Features](#features) • [Getting Started](#getting-started) • [Installation](#installation) • [Usage](#usage) • [Technologies](#technologies) • [Contributing](#contributing)
+
 
 </div>
 
